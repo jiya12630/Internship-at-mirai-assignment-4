@@ -60,8 +60,13 @@ The **🎲 Surprise Me!** button randomly selects one of five creative prompts a
 - Pollinations AI
 
 ## ▶️ How to Run
-
 Install the required packages:
 
 ```bash
 pip install streamlit requests
+
+<img width="768" height="768" alt="realistic_ai_image" src="https://github.com/user-attachments/assets/edb24eb8-009c-445a-baa4-d8127e6aa40f" />
+
+
+https://github.com/user-attachments/assets/63a2ce45-f57a-4774-a530-c64b7c23fd93
+

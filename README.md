@@ -65,6 +65,9 @@ Install the required packages:
 ```bash
 pip install streamlit requests
 
+
+## Video
+
 <img width="768" height="768" alt="realistic_ai_image" src="https://github.com/user-attachments/assets/edb24eb8-009c-445a-baa4-d8127e6aa40f" />
 
 
